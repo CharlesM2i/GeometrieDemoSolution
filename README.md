@@ -1,3 +1,3 @@
 # GeometrieDemoSolution
 
-![demo](Geometrie_calcul.gif)
+![demo](Geométrie_calcul.gif)
